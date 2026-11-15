@@ -1,0 +1,21 @@
+﻿  Batch.cpp
+  CLI.cpp
+  Command.cpp
+C:\Skola\Fakultet\2. godina, 2024-25\3. semestar\Objektno orijentisano programiranje 1\Projekat\CLIProjectV2\CLIProjectV2\Command.cpp(95,52): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Date.cpp
+  Echo.cpp
+  Head.cpp
+  IOClasses.cpp
+  Main.cpp
+  Parser.cpp
+  Pipe.cpp
+  Prompt.cpp
+  RemoveFile.cpp
+  Time.cpp
+  Touch.cpp
+  Translate.cpp
+C:\Skola\Fakultet\2. godina, 2024-25\3. semestar\Objektno orijentisano programiranje 1\Projekat\CLIProjectV2\CLIProjectV2\Translate.cpp(29,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Truncate.cpp
+  WordCount.cpp
+  Generating Code...
+  CLIProjectV2.vcxproj -> C:\Skola\Fakultet\2. godina, 2024-25\3. semestar\Objektno orijentisano programiranje 1\Projekat\CLIProjectV2\x64\Debug\CLIProjectV2.exe
